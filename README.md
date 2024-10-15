@@ -50,7 +50,7 @@ Hard Disk space: 432 MB of free space is Needed.
 </p>
 <h2>How To Install:
 </h2>
-<p>Download CleanMyPC From Below URL.
+<p>Download CleanMyPC From upper URL.
 After install This edition.
 With Complete Set-up Now.
 Done This Version.
